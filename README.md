@@ -1,3 +1,5 @@
+[![pages-build-deployment](../../actions/workflows/pages/pages-build-deployment/badge.svg)](../../actions/workflows/pages/pages-build-deployment)
+
 # tt-gds-action
 
 [ULX3S](https://radiona.org/ulx3s/) GitHub action for hardening your [Tiny Tapeout](https://tinytapeout.com/) design into a manufacturable GDS file with FPGA tests.
